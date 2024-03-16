@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+  color: green;
+}
+#greetings {
+  color: purple;
+}
+
+#movingdiv {
+  position: relative;
+  width: 135px;
+  padding: 10px;
+  z-index: 9;
+  background-color: purple;
+  color: #fff;
+  text-align: center;
+}
+
+#textcolor {
+  font-weight: bold;
+}
